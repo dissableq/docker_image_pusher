@@ -16,4 +16,3 @@ joplin/server
 containrrr/watchtower
 linuxserver/jackett
 nolanhzy/pro
-rabbitpro

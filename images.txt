@@ -11,3 +11,10 @@ linuxserver/qbittorrent
 superng6/qbittorrentee
 e365/rustdesk-server-s6
 Overseerr
+lscr.io/linuxserver/qbittorrent:latest
+tiangolo/nginx-rtmp:latest
+cnk3x/xunlei
+nyanmisaka/jellyfin:latest
+openspeedtest/latest
+joplin/server:latest
+containrrr/watchtower

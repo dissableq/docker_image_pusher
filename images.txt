@@ -16,3 +16,5 @@ joplin/server
 containrrr/watchtower
 linuxserver/jackett
 nolanhzy/pro
+19970688/nastools-bt
+linuxserver/transmission

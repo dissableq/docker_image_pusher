@@ -8,7 +8,7 @@ linuxserver/bazarr
 linuxserver/qbittorrent
 superng6/qbittorrentee
 e365/rustdesk-server-s6
-linuxserver/Overseerr
+linuxserver/overseerr
 tiangolo/nginx-rtmp
 cnk3x/xunlei
 nyanmisaka/jellyfin

@@ -1,2 +1,13 @@
 nginx
 nastool/nas-tools
+linuxserver/sonarr
+andrewkhunn/sonarr3
+Jackett
+Jellyseerr
+Radarr
+Bazarr
+Jellyseerr
+linuxserver/qbittorrent
+superng6/qbittorrentee
+e365/rustdesk-server-s6
+Overseerr

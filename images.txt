@@ -2,9 +2,9 @@ nginx
 nastool/nas-tools
 linuxserver/sonarr
 andrewkhunn/sonarr3
-fallenbagel/Jellyseerr
-linuxserver/Radarr
-linuxserver/Bazarr
+fallenbagel/jellyseerr
+linuxserver/radarr
+linuxserver/bazarr
 linuxserver/qbittorrent
 superng6/qbittorrentee
 e365/rustdesk-server-s6
@@ -14,3 +14,4 @@ cnk3x/xunlei
 nyanmisaka/jellyfin
 joplin/server
 containrrr/watchtower
+linuxserver/jackett

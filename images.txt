@@ -2,7 +2,6 @@ nginx
 nastool/nas-tools
 linuxserver/sonarr
 andrewkhunn/sonarr3
-linuxserver/Jackett
 fallenbagel/Jellyseerr
 linuxserver/Radarr
 linuxserver/Bazarr

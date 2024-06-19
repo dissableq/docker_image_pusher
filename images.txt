@@ -19,3 +19,5 @@ nolanhzy/pro
 19970688/nastools-bt
 linuxserver/transmission
 nevinee/qbittorrent
+easychen/cookiecloud
+jxxghp/moviepilot

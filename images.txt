@@ -16,3 +16,4 @@ v2raya/v2raya
 vaultwarden/server
 whyour/qinglong
 iyuucn/iyuuplus
+mzz2017/v2raya

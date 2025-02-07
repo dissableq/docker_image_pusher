@@ -12,7 +12,6 @@ easychen/cookiecloud
 jxxghp/moviepilot
 allanpk716/chinesesubfinder
 jxxghp/moviepilot-v2
-v2raya/v2raya
 vaultwarden/server
 whyour/qinglong
 iyuucn/iyuuplus

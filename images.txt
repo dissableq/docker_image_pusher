@@ -22,3 +22,4 @@ nevinee/qbittorrent
 easychen/cookiecloud
 jxxghp/moviepilot
 allanpk716/chinesesubfinder
+jxxghp/moviepilot-v2

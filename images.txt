@@ -17,3 +17,5 @@ whyour/qinglong
 iyuucn/iyuuplus
 mzz2017/v2raya
 emby/embyserver
+portainer/portainer
+6053537/portainer
